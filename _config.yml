@@ -28,7 +28,9 @@ twitter_username: tomrolandus
 github_username:  tomrolandus
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: minimal 
+#jekyll-theme-leap-day
+
 plugins:
   - jekyll-feed
 
