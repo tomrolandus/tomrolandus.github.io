@@ -2,4 +2,4 @@
 title: Vita
 ---
 
-[Download my resume]({{ '/assets/Junji Wiener Resume.pdf' | relative_url }})
+[Download my resume]({{ '/assets/TRH_CV.pdf' | relative_url }})
