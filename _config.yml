@@ -1,16 +1,16 @@
 # Site settings
-title: Junji Wiener
+title: Tom Rolandus Hagedoorn
 description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: https://8jun.github.io/ # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: https://tomrolandus.github.io/ # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Junji Wiener
-user_description: Current Business Ops Analyst III at Dish Newtork working on predictive analytics for the Customer Experience Organization on the Workforce Management team. I am a 2020 graduate from the University of Colorado, Boulder, Leeds School of Business where I studied Business Analytics with a focus on Security. I graduated from Chestnut Hill College in 2013 with a Bachelors of Science in Accounting and completed my MBA with a concentration in Finance at Philadelphia University in 2015. During my MBA I worked at SEI Investments Company on the Angelo Gordon client as a fund accountant for alternative investments (bank debt and real estate). After leaving SEI, I joined Accenture as a Client Financial Management Analyst handling contractual finances from pricing, forecasting, presenting monthly financials and being the business advisor for client teams.
-user_title: University of Colorado, Boulder, Leeds School of Business 2020 Graduate
-email: dawi9234@colorado.edu
-linkedin_username: junjiwiener
-github_username: 8Jun
+username: Tom Rolandus Hagedoorn
+user_description: to fill in
+user_title: Senior Data Scientist - GenAI
+email: tomrolandus@gmail.com
+linkedin_username: tom-rolandus-hagedoorn-7a9a192a
+github_username: tomrolandus
 
 # Google-analytics
 google-analytics:
