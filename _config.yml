@@ -1,44 +1,19 @@
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Portfolio
-email: tomrolandus@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This site serves as a portfolio of interesting projects for potential future employers.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Junji Wiener
+description: Jekyll Theme Minimal Resume
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: https://8jun.github.io/ # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-# Build settings
-theme: minima
-# theme: jekyll-theme-leap-day
-plugins:
-  - jekyll-feed
+# User settings
+username: Junji Wiener
+user_description: Current Business Ops Analyst III at Dish Newtork working on predictive analytics for the Customer Experience Organization on the Workforce Management team. I am a 2020 graduate from the University of Colorado, Boulder, Leeds School of Business where I studied Business Analytics with a focus on Security. I graduated from Chestnut Hill College in 2013 with a Bachelors of Science in Accounting and completed my MBA with a concentration in Finance at Philadelphia University in 2015. During my MBA I worked at SEI Investments Company on the Angelo Gordon client as a fund accountant for alternative investments (bank debt and real estate). After leaving SEI, I joined Accenture as a Client Financial Management Analyst handling contractual finances from pricing, forecasting, presenting monthly financials and being the business advisor for client teams.
+user_title: University of Colorado, Boulder, Leeds School of Business 2020 Graduate
+email: dawi9234@colorado.edu
+linkedin_username: junjiwiener
+github_username: 8Jun
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
